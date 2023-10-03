@@ -1,0 +1,289 @@
+[
+    {
+        "_id": 1,
+        "attributes": {
+            "color": "mint green",
+            "country": "Lebanon"
+        }
+    },
+    {
+        "_id": 2,
+        "attributes": {
+            "color": "green",
+            "country": "Nepal"
+        }
+    },
+    {
+        "_id": 3,
+        "attributes": {
+            "color": "magenta",
+            "country": "Chile"
+        }
+    },
+    {
+        "_id": 4,
+        "attributes": {
+            "color": "white",
+            "country": "Western Sahara"
+        }
+    },
+    {
+        "_id": 5,
+        "attributes": {
+            "color": "azure",
+            "country": "French Guiana"
+        }
+    },
+    {
+        "_id": 6,
+        "attributes": {
+            "color": "black",
+            "country": "Gibraltar"
+        }
+    },
+    {
+        "_id": 7,
+        "attributes": {
+            "color": "grey",
+            "country": "Afghanistan"
+        }
+    },
+    {
+        "_id": 8,
+        "attributes": {
+            "color": "cyan",
+            "country": "Iceland"
+        }
+    },
+    {
+        "_id": 9,
+        "attributes": {
+            "color": "indigo",
+            "country": "Antarctica (the territory South of 60 deg S)"
+        }
+    },
+    {
+        "_id": 10,
+        "attributes": {
+            "color": "lime",
+            "country": "Georgia"
+        }
+    },
+    {
+        "_id": 11,
+        "attributes": {
+            "color": "yellow",
+            "country": "Thailand"
+        }
+    },
+    {
+        "_id": 12,
+        "attributes": {
+            "color": "salmon",
+            "country": "Cyprus"
+        }
+    },
+    {
+        "_id": 13,
+        "attributes": {
+            "color": "magenta",
+            "country": "Lithuania"
+        }
+    },
+    {
+        "_id": 14,
+        "attributes": {
+            "color": "orchid",
+            "country": "Palestinian Territory"
+        }
+    },
+    {
+        "_id": 15,
+        "attributes": {
+            "color": "olive",
+            "country": "Wallis and Futuna"
+        }
+    },
+    {
+        "_id": 16,
+        "attributes": {
+            "color": "violet",
+            "country": "Yemen"
+        }
+    },
+    {
+        "_id": 17,
+        "attributes": {
+            "color": "sky blue",
+            "country": "Barbados"
+        }
+    },
+    {
+        "_id": 18,
+        "attributes": {
+            "color": "green",
+            "country": "Chile"
+        }
+    },
+    {
+        "_id": 19,
+        "attributes": {
+            "color": "grey",
+            "country": "Namibia"
+        }
+    },
+    {
+        "_id": 20,
+        "attributes": {
+            "color": "cyan",
+            "country": "United States Minor Outlying Islands"
+        }
+    },
+    {
+        "_id": 21,
+        "attributes": {
+            "color": "magenta",
+            "country": "Bahamas"
+        }
+    },
+    {
+        "_id": 22,
+        "attributes": {
+            "color": "silver",
+            "country": "Guernsey"
+        }
+    },
+    {
+        "_id": 23,
+        "attributes": {
+            "color": "grey",
+            "country": "Myanmar"
+        }
+    },
+    {
+        "_id": 24,
+        "attributes": {
+            "color": "purple",
+            "country": "Guernsey"
+        }
+    },
+    {
+        "_id": 25,
+        "attributes": {
+            "color": "maroon",
+            "country": "Lao People's Democratic Republic"
+        }
+    },
+    {
+        "_id": 26,
+        "attributes": {
+            "color": "orchid",
+            "country": "Guatemala"
+        }
+    },
+    {
+        "_id": 27,
+        "attributes": {
+            "color": "violet",
+            "country": "Lao People's Democratic Republic"
+        }
+    },
+    {
+        "_id": 28,
+        "attributes": {
+            "color": "violet",
+            "country": "India"
+        }
+    },
+    {
+        "_id": 29,
+        "attributes": {
+            "color": "azure",
+            "country": "Cote d'Ivoire"
+        }
+    },
+    {
+        "_id": 30,
+        "attributes": {
+            "color": "cyan",
+            "country": "Luxembourg"
+        }
+    },
+    {
+        "_id": 31,
+        "attributes": {
+            "color": "cyan",
+            "country": "Uzbekistan"
+        }
+    },
+    {
+        "_id": 32,
+        "attributes": {
+            "color": "orchid",
+            "country": "Malta"
+        }
+    },
+    {
+        "_id": 33,
+        "attributes": {
+            "color": "mint green",
+            "country": "Cambodia"
+        }
+    },
+    {
+        "_id": 34,
+        "attributes": {
+            "color": "violet",
+            "country": "Sierra Leone"
+        }
+    },
+    {
+        "_id": 35,
+        "attributes": {
+            "color": "tan",
+            "country": "Bahrain"
+        }
+    },
+    {
+        "_id": 36,
+        "attributes": {
+            "color": "sky blue",
+            "country": "Marshall Islands"
+        }
+    },
+    {
+        "_id": 37,
+        "attributes": {
+            "color": "tan",
+            "country": "Malaysia"
+        }
+    },
+    {
+        "_id": 38,
+        "attributes": {
+            "color": "salmon",
+            "country": "Philippines"
+        }
+    },
+    {
+        "_id": 39,
+        "attributes": {
+            "color": "teal",
+            "country": "Paraguay"
+        }
+    },
+    {
+        "_id": 40,
+        "attributes": {
+            "color": "fuchsia",
+            "country": "Mauritius"
+        }
+    },
+    {
+        "_id": 41,
+        "attributes": {
+            "color": "salmon",
+            "country": "Senegal"
+        }
+    }
+]

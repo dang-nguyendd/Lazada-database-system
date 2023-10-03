@@ -1,0 +1,21 @@
+.flex-container {
+  display: flex;
+  /* background-color: DodgerBlue; */
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.flex-container>div {
+  /* background-color: #f1f1f1; */
+  margin: 10px 10px 10px 0px;
+  grid-row: 1;
+  flex-grow: 2;
+
+  /* padding: 20px; */
+  /* font-size: 30px; */
+}
+
+#page-numbers {
+  display: flex;
+  flex-direction: row;
+}
